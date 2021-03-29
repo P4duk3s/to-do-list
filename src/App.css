@@ -1,4 +1,33 @@
-.App {
+body {
+  background: whitesmoke;
+}
+
+.add-btn{
+  background: lightgreen;
+  width: 40px;
+  height: 40px;
+}
+
+.btn{
+  background: red;
+  margin: 20px;
+}
+
+ul {
+  text-align: center;
+  list-style-position: inside;
+}
+
+.app-title{
+  text-align: center;
+  color: lightcoral;
+  font-size: 70px;
+}
+
+.container{
+  /* display: flex; */
+  border: 50px solid lightblue;
+  border-radius: 50px;
   text-align: center;
 }
 
